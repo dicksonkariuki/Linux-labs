@@ -64,7 +64,9 @@ Print only timestamps from app.log.
 # Task 8
 Print only usernames from successful login entries.
 
-***awk '{print $3}' app.log***
+***awk 'NR==2 || NR==5' auth.log***
+
+![alt text](image-9.png)
 
 # Task 9
 Extract disk usage percentages from system.log.
