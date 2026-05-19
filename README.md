@@ -5,7 +5,7 @@ This repository contains Linux Labs for Devops &amp; Cloud Engineers
 ***touch app.log,auth.log,system.log***
 
 # PART 1 — FIND COMMAND
-Task 1
+# Task 1
 Find all .log files.
 
 ***find . -name "*.log"***(for logs in the current directory)
@@ -21,7 +21,7 @@ Find only files containing “app” in filename.
 
 # Part 2 Locate Command 
 
-Task 3
+# Task 3
 Locate auth.log.
 
 ***locate auth.log***
