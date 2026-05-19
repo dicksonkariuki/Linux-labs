@@ -117,6 +117,15 @@ Use xargs to display all logs with cat.
 
 ![alt text](image-14.png)
 
+# Task 15 
+Use xargs to search ERROR in all listed logs.
+
+***find . -name "*.listlog.txt" | xargs grep "ERROR"***
+
+![alt text](image-15.png)
+
+
+
 
 
 
