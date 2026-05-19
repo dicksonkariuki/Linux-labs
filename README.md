@@ -91,6 +91,15 @@ Extract usernames and sort alphabetically.
 
 ![alt text](image-11.png)
 
+# Task 12
+Find failed SSH logins and count occurrences.
+
+***grep "Failed paswords" | wc -l***
+
+![alt text](image-12.png)
+
+
+
 
 
 
