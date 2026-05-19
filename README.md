@@ -28,6 +28,8 @@ Find all ERROR messages in app.log.
 
 ***grep"ERROR" app.log***
 
+![alt text](image-2.png)
+
 # Task 5
 Find all WARNING messages.
 
