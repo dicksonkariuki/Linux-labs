@@ -17,6 +17,8 @@ Find only files containing “app” in filename.
 
 ***find . -type f -name "*app*"***
 
+![alt text](image-5.png)
+
 # Part 2 Locate Command 
 
 Task 3
