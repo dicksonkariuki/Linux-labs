@@ -10,6 +10,8 @@ Find all .log files.
 
 ***find . -name "*.log"***(for logs in the current directory)
 
+![alt text](image-4.png)
+
 # Task 2
 Find only files containing “app” in filename.
 
