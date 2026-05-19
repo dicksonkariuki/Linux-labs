@@ -75,6 +75,14 @@ Extract disk usage percentages from system.log.
 
 ![alt text](image-1.png)
 
+# Part 5 -piping 
+# Task 10 
+Find ERROR logs and count them.
+
+***grep -i "ERROR" app.log | wc -l***
+
+![alt text](image-10.png)
+
 
 
 
