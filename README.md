@@ -26,6 +26,8 @@ Locate auth.log.
 
 ***locate auth.log***
 
+![alt text](image-6.png)
+
 # Part 3: Grep Command 
 # Task 4
 Find all ERROR messages in app.log.
