@@ -51,6 +51,8 @@ wc -l
 
 ***grep "ERROR" app.log| wc -l***
 
+![alt text](image-7.png)
+
 # Part 4 :AWK Command 
 # Task 7
 Print only timestamps from app.log.
