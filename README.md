@@ -59,6 +59,8 @@ Print only timestamps from app.log.
 
 ***awk '{print$ 2}' app.log***
 
+![alt text](image-8.png)
+
 # Task 8
 Print only usernames from successful login entries.
 
