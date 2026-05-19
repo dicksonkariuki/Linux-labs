@@ -23,20 +23,31 @@ Locate auth.log.
 ***locate auth.log***
 
 # Part 3: Grep Command 
-Task 4
+# Task 4
 Find all ERROR messages in app.log.
 
 ***grep"ERROR" app.log***
-Task 5
+
+# Task 5
 Find all WARNING messages.
 
 ***grep "WARNING"app.log***
+
 # Task 6
 Count the number of ERROR entries.
 Hint
 Use piping with:
 wc -l
+
 ***grep "ERROR" app.log| wc -l***
+
+# Part 4 :AWK Command 
+# Task 7
+Print only timestamps from app.log.
+
+***awk '{print$ 2}' app.log***
+
+
 
 
 
