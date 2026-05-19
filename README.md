@@ -27,6 +27,17 @@ Task 4
 Find all ERROR messages in app.log.
 
 ***grep"ERROR" app.log***
+Task 5
+Find all WARNING messages.
+
+***grep "WARNING"app.log***
+# Task 6
+Count the number of ERROR entries.
+Hint
+Use piping with:
+wc -l
+***grep "ERROR" app.log| wc -l***
+
 
 
 
