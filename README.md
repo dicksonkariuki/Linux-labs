@@ -83,6 +83,16 @@ Find ERROR logs and count them.
 
 ![alt text](image-10.png)
 
+# Task 11
+Extract usernames and sort alphabetically.
+
+***cut -d: -f3 app.log | sort***
+
+
+![alt text](image-11.png)
+
+
+
 
 
 
