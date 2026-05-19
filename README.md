@@ -35,6 +35,8 @@ Find all WARNING messages.
 
 ***grep "WARNING"app.log***
 
+![alt text](image-3.png)
+
 # Task 6
 Count the number of ERROR entries.
 Hint
