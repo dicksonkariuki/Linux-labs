@@ -12,6 +12,23 @@ Find all .log files.
 
 # Task 2
 Find only files containing “app” in filename.
+
 ***find . -type f -name "*app*"***
+
+# Part 2 Locate Command 
+
+Task 3
+Locate auth.log.
+
+***locate auth.log***
+
+# Part 3: Grep Command 
+Task 4
+Find all ERROR messages in app.log.
+
+***grep"ERROR" app.log***
+
+
+
 
 
