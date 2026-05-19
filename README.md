@@ -98,7 +98,7 @@ Find failed SSH logins and count occurrences.
 
 ![alt text](image-12.png)
 
-# Part  — XARGS
+# Part 6  — XARGS
 # Task 13
 
 Create a file called loglist.txt containing:
@@ -109,6 +109,14 @@ system.log
 ***echo "app.log auth.log system.log">loglist.txt***
 
 ![alt text](image-13.png)
+
+# Task 14
+Use xargs to display all logs with cat.
+
+***cat loglist.txt | xargs cat***
+
+![alt text](image-14.png)
+
 
 
 
