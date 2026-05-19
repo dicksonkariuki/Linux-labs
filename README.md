@@ -47,6 +47,12 @@ Print only timestamps from app.log.
 
 ***awk '{print$ 2}' app.log***
 
+# Task 8
+Print only usernames from successful login entries.
+
+***awk '{print $3}' app.log***
+
+
 
 
 
