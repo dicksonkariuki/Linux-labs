@@ -52,6 +52,13 @@ Print only usernames from successful login entries.
 
 ***awk '{print $3}' app.log***
 
+# Task 9
+Extract disk usage percentages from system.log.
+
+***awk 'NR==3 || NR==6' system.log**
+
+![alt text](image-1.png)
+
 
 
 
