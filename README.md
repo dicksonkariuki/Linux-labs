@@ -98,6 +98,20 @@ Find failed SSH logins and count occurrences.
 
 ![alt text](image-12.png)
 
+# Part  — XARGS
+# Task 13
+
+Create a file called loglist.txt containing:
+app.log
+auth.log
+system.log
+
+***echo "app.log auth.log system.log">loglist.txt***
+
+![alt text](image-13.png)
+
+
+
 
 
 
